@@ -1,0 +1,3 @@
+# Double: Rate of mobility path broadcast
+# Units: Hz
+path_pub_rate: 20.0
