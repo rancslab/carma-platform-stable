@@ -45,7 +45,7 @@ repositories:
     version: develop
   src/carma-platform:
     type: git
-    url: git@github.com:rancslab/carma-platform.git
+    url: git@github.com:rancslab/carma-platform-stable.git
     version: develop
   src/carma-ssc-interface-wrapper:
     type: git
