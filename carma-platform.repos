@@ -14,7 +14,7 @@ repositories:
   src/carma-base:
     type: git
     url: git@github.com:usdot-fhwa-stol/carma-base.git
-    version: develop
+    version: carma-system-4.4.3
   src/carma-cohda-dsrc-driver:
     type: git
     url: git@github.com:usdot-fhwa-stol/carma-cohda-dsrc-driver.git
@@ -22,7 +22,7 @@ repositories:
   src/carma-config:
     type: git
     url: git@github.com:rancslab/carma-config.git
-    version: detatched
+    version: detached
   src/carma-delphi-esr-driver:
     type: git
     url: git@github.com:usdot-fhwa-stol/carma-delphi-esr-driver.git
