@@ -22,7 +22,7 @@ repositories:
   src/carma-config:
     type: git
     url: git@github.com:rancslab/carma-config.git
-    version: develop
+    version: detatched
   src/carma-delphi-esr-driver:
     type: git
     url: git@github.com:usdot-fhwa-stol/carma-delphi-esr-driver.git
@@ -46,7 +46,7 @@ repositories:
   src/carma-platform:
     type: git
     url: git@github.com:rancslab/carma-platform-stable.git
-    version: develop
+    version: main
   src/carma-ssc-interface-wrapper:
     type: git
     url: git@github.com:usdot-fhwa-stol/carma-ssc-interface-wrapper.git
